@@ -1,0 +1,1 @@
+http://opencv-tutorials-hub.blogspot.jp/2015/12/opencv-code-for-drawing-star-by-joining-lines-example.html
